@@ -49,7 +49,7 @@ O objetivo do curso é introduzir algumas das principais técnicas matemáticas 
 
 ### Esquema de avaliação
 
-Projeto ao final de cada módulo.
+**Projeto ao final de cada módulo.**
 
 1. Projeto módulo 0 – Individual – 20%
 2. 2 x Projeto livre escolha entre os módulos 1, 2, 3 e 4 – em dupla – 2x40%
