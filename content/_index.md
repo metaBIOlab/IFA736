@@ -8,7 +8,7 @@ weight: 30
 
 ### Resumo
 
-O objetivo do curso é introduzir algumas das principais técnicas matemáticas utilizadas no estudo quantitativo de sistemas biológicos diversos. A ênfase será na introdução rigorosa e aplicação generalizável de cada técnica, mais do que no substrato biológico usado como exemplo. A experiência discente do curso irá procurar reproduzir a práxis da pesquisa científica: Os alunos irão colaborar entre si e interagir com dados reais; o uso de resultados de terceiros será encorajado se citados apropriadamente; o uso das técnicas estudadas será motivado por questões científica concretas; e os projetos a serem avaliados terão o formato de produção científica usual. Alguma experiência com linguagens de programação é altamente recomendada, mas o curso será agnóstico quanto a linguagens específicas
+O objetivo do curso é introduzir algumas das principais técnicas matemáticas utilizadas no estudo quantitativo de sistemas biológicos diversos. A ênfase será na introdução rigorosa e aplicação generalizável de cada técnica, mais do que no substrato biológico usado como exemplo. A experiência discente do curso irá procurar reproduzir a práxis da pesquisa científica: Os alunos irão colaborar entre si e interagir com dados reais; o uso de resultados de terceiros será encorajado se citados apropriadamente; o uso das técnicas estudadas será motivado por questões científica concretas; e os projetos a serem avaliados terão o formato de produção científica usual. Alguma experiência com linguagens de programação é altamente recomendada, mas o curso será agnóstico quanto a linguagens específicas.
 
 ### Ementa
 

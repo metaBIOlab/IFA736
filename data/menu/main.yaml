@@ -2,7 +2,7 @@
 main:
   - name: Modulo 0
     ref: "/modulo0"
-    icon: "gdoc_notification"
+    # icon: "gdoc_notification"
     # sub:
       # - name: Level 1.1
       #   ref: "/level-1/level-1-1"
