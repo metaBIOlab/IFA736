@@ -1,18 +1,16 @@
 ---
-title: IFA736 Tópicos em Biofísica - Roteiro
+title: Roteiro IFA736 Tópicos em Biofísica
 menu: main
 weight: 30
 ---
 
-## Métodos matemáticos em biologia teórica
+## Métodos matemáticos em biologia teórica - Período: 2023-1
 
-### Período: 2023-1
-
-### Resumo:
+### Resumo
 
 O objetivo do curso é introduzir algumas das principais técnicas matemáticas utilizadas no estudo quantitativo de sistemas biológicos diversos. A ênfase será na introdução rigorosa e aplicação generalizável de cada técnica, mais do que no substrato biológico usado como exemplo. A experiência discente do curso irá procurar reproduzir a práxis da pesquisa científica: Os alunos irão colaborar entre si e interagir com dados reais; o uso de resultados de terceiros será encorajado se citados apropriadamente; o uso das técnicas estudadas será motivado por questões científica concretas; e os projetos a serem avaliados terão o formato de produção científica usual. Alguma experiência com linguagens de programação é altamente recomendada, mas o curso será agnóstico quanto a linguagens específicas
 
-### Ementa:
+### Ementa
 
 * Módulo 0 – Dinâmica populacional
   
@@ -43,13 +41,13 @@ O objetivo do curso é introduzir algumas das principais técnicas matemáticas 
   * Cadeias de Markov
   * Balanço detalhado e algoritmo de Metrópolis
 
-### Equipe:
+### Equipe
 
 * **Professor**: Bruno Mota (IF-UFRJ)
 * **Professor convidado**: [Lucas França (Northumbria University, Newcastle upon Tyne, UK)](https://www.lfranca.uk/)
 * **Monitores**: Victor Braga (IDOR) e Fernanda Hansen (IF-UFRJ e IDOR)
 
-### Esquema de avaliação:
+### Esquema de avaliação
 
 Projeto ao final de cada módulo.
 
@@ -58,7 +56,7 @@ Projeto ao final de cada módulo.
    Cada projetos irá incluir código computacional e textos em formato de artigo científico apresentando e discutindo análise de dados. Bases de dados reais serão disponibilizadas, mas os alunos são encorajados a usar dados próprios ou que lhes sejam de interesse.
    Todos os resultados serão apresentados em ferramentas de colaboração científica reais: Projetos compartilhados no [Overleaf](https://pt.overleaf.com), repositórios de código em [Github](https://github.com/), notebooks em [Jupyter](https://jupyter.org/) e [Mathematica](https://www.wolfram.com/mathematica/).
 
-### Material didático e bibliografia sugerida:
+### Material didático e bibliografia sugerida
 
 - Quadro virtual com o conteúdo das aulas e material suplementar (miro.com/)
 - Roteiros com exercícios e atividades para cada módulo
