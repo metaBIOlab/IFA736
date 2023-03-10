@@ -1,5 +1,5 @@
 ---
-title: Roteiro IFA736 Tópicos em Biofísica
+title: IFA736 Tópicos em Biofísica
 menu: main
 weight: 30
 ---
@@ -15,7 +15,7 @@ O objetivo do curso é introduzir algumas das principais técnicas matemáticas 
 * Módulo 0 – Dinâmica populacional
   
   * Introdução ao raciocínio físico-matemático: Intuição física e intuição matemática, e o choque de culturas científicas
-  * Algumas ferramentas: Overleaf, Bibtex, Zotero, Github e linguagens de programação
+  * Algumas ferramentas: [Overleaf](https://pt.overleaf.com), [Bibtex](https://www.google.com/search?q=bibtex&oq=bibtex&aqs=chrome..69i57j0i67j0i512l8.893j0j4&sourceid=chrome&ie=UTF-8), [Zotero](https://www.zotero.org/), [Github](https://github.com/) e linguagens de programação
   * Sistemas de equações diferenciais parciais de 1ª ordem e dinâmica de populações
   * Modelos populacionais: Crescimento Malthusiano e logístico; Modelos de populações acopladas: Lotka-Volterra, infestações de zumbis e SI(n)R para doenças infecciosas.
 * Módulo 1 – Alometria e leis de escala
