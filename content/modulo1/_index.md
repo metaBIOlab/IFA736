@@ -1,5 +1,5 @@
 ---
-title: Modulo 1
+title: Módulo 1
 menu: main
 weight: 32
 ---
