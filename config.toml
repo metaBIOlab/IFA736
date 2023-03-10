@@ -1,5 +1,5 @@
 baseURL = "http://localhost"
-title = "Geekdocs"
+title = "IFA736 - Tópicos em Biofísica"
 theme = "hugo-geekdoc"
 
 pluralizeListTitles = false
