@@ -1,10 +1,8 @@
 ---
-title: Roteiro
+title: IFA736 Tópicos em Biofísica- Roteiro
 menu: main
 weight: 30
 ---
-
-# IFA736 Tópicos em Biofísica
 
 ## Métodos matemáticos em biologia teórica
 
