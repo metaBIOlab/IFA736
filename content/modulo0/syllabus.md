@@ -12,7 +12,7 @@ Através do GitHub também é possível criar sites gratuítos, como este.
 
 ## Overleaf
 
-O OverlafPlataforma online para escrita de artigos, relatórios, trabalhos de conclusão e o que for necessário https://pt.overleaf.com/
+O Overlaf é uma plataforma online para escrita de artigos, relatórios, trabalhos de conclusão e o que for necessário https://pt.overleaf.com/.
 
 ## Ferramentas de programação
 
