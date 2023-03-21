@@ -1,3 +1,9 @@
+---
+title: "Glossário de ferramentas acadêmicas"
+
+---
+
+
 ## BibTex e Zotero
 
 O [BibTex](https://www.bibtex.org/) é um formato de arquivo para referências bibliográficas amplamente utilizado para inclusão de referências em LaTex e organizadores de referências, como o [Zotero](https://www.zotero.org) (gratuito).  

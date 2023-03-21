@@ -15,4 +15,7 @@ Em breve.
 
 # Para casa
 
-Criar uma conta nas ferramentas utilizadas para divulgação e publicação cientifica. Os trabalhos futuros serão apresentados utilizando ferramentas.
+## Aula 0
+
+* Criar uma conta nas ferramentas utilizadas para divulgação e publicação cientifica. Os trabalhos futuros serão apresentados utilizando ferramentas.  
+* Listar os conceitos fundamentais da Aula 0.
