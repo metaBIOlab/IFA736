@@ -1,8 +1,11 @@
-baseURL = "http://localhost"
+baseURL = "/"
 title = "IFA736 - Tópicos em Biofísica"
 theme = "hugo-geekdoc"
 
 pluralizeListTitles = false
+
+uglyURLs = true
+relativeURLs = true
 
 # Geekdoc required configuration
 pygmentsUseClasses = true
