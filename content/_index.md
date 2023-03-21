@@ -54,7 +54,7 @@ O objetivo do curso é introduzir algumas das principais técnicas matemáticas 
 1. Projeto módulo 0 – Individual – 20%
 2. 2 x Projeto livre escolha entre os módulos 1, 2, 3 e 4 – em dupla – 2x40%
    Cada projetos irá incluir código computacional e textos em formato de artigo científico apresentando e discutindo análise de dados. Bases de dados reais serão disponibilizadas, mas os alunos são encorajados a usar dados próprios ou que lhes sejam de interesse.
-   Todos os resultados serão apresentados em ferramentas de colaboração científica reais: Projetos compartilhados no [Overleaf](https://pt.overleaf.com), repositórios de código em [Github](https://github.com/), notebooks em [Jupyter](https://jupyter.org/) e [Mathematica](https://www.wolfram.com/mathematica/).
+   Todos os resultados serão apresentados em ferramentas de colaboração científica reais: Projetos compartilhados no [Overleaf](https://pt.overleaf.com), repositórios de código em [GitHub](https://github.com/), notebooks em [Jupyter](https://jupyter.org/) e [Mathematica](https://www.wolfram.com/mathematica/).
 
 ### Material didático e bibliografia sugerida
 

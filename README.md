@@ -10,7 +10,7 @@ O objetivo do curso é introduzir algumas das principais técnicas matemáticas 
 * Módulo 0 – Dinâmica populacional
   
   * Introdução ao raciocínio físico-matemático: Intuição física e intuição matemática, e o choque de culturas científicas
-  * Algumas ferramentas: [Overleaf](https://pt.overleaf.com), [Bibtex](https://www.google.com/search?q=bibtex&oq=bibtex&aqs=chrome..69i57j0i67j0i512l8.893j0j4&sourceid=chrome&ie=UTF-8), [Zotero](https://www.zotero.org/), [Github](https://github.com/) e linguagens de programação
+  * Algumas ferramentas: [Overleaf](https://pt.overleaf.com), [Bibtex](https://www.google.com/search?q=bibtex&oq=bibtex&aqs=chrome..69i57j0i67j0i512l8.893j0j4&sourceid=chrome&ie=UTF-8), [Zotero](https://www.zotero.org/), [GitHub](https://github.com/) e linguagens de programação
   * Sistemas de equações diferenciais parciais de 1ª ordem e dinâmica de populações
   * Modelos populacionais: Crescimento Malthusiano e logístico; Modelos de populações acopladas: Lotka-Volterra, infestações de zumbis e SI(n)R para doenças infecciosas.
 * Módulo 1 – Alometria e leis de escala
@@ -49,7 +49,7 @@ Projeto ao final de cada módulo.
 1. Projeto módulo 0 – Individual – 20%
 2. 2 x Projeto livre escolha entre os módulos 1, 2, 3 e 4 – em dupla – 2x40%
    Cada projetos irá incluir código computacional e textos em formato de artigo científico apresentando e discutindo análise de dados. Bases de dados reais serão disponibilizadas, mas os alunos são encorajados a usar dados próprios ou que lhes sejam de interesse.
-   Todos os resultados serão apresentados em ferramentas de colaboração científica reais: Projetos compartilhados no [Overleaf](https://pt.overleaf.com), repositórios de código em [Github](https://github.com/), notebooks em [Jupyter](https://jupyter.org/) e [Mathematica](https://www.wolfram.com/mathematica/).
+   Todos os resultados serão apresentados em ferramentas de colaboração científica reais: Projetos compartilhados no [Overleaf](https://pt.overleaf.com), repositórios de código em [GitHub](https://github.com/), notebooks em [Jupyter](https://jupyter.org/) e [Mathematica](https://www.wolfram.com/mathematica/).
 
 ### Material didático e bibliografia sugerida
 
@@ -57,7 +57,7 @@ Projeto ao final de cada módulo.
 - Roteiros com exercícios e atividades para cada módulo
 
 1. Sethna, JP. (2021) Statistical Mechanics: Entropy, Order Parameters, and Complexity, 2nd edn, Oxford; https://doi.org/10.1093/oso/9780198865247.001.0001
-   https://sethna.lassp.cornell.edu/statistical_mechanics_entropy_order_parameters_and_complexit)
+   https://sethna.lassp.cornell.edu/statistical_mechanics_entropy_order_parameters_and_complexit
 2. Barenblatt, G. (1996). Scaling, Self-similarity, and Intermediate Asymptotics: Dimensional Analysis and Intermediate Asymptotics, Cambridge; https://doi.org/10.1017/CBO9781107050242.017
 3. Menczer, Filippo & Fortunato, Santo & Davis, Clayton. (2020). A First Course in Network Science, Cambridge, https://doi.org/10.1017/9781108653947.
    https://cambridgeuniversitypress.github.io/FirstCourseNetworkScience/
