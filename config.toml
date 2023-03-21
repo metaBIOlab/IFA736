@@ -1,7 +1,6 @@
 baseURL = "https://metabiolab.github.io/IFA736"
 title = "IFA736 - Tópicos em Biofísica"
 theme = "hugo-geekdoc"
-languageCode = "pt-br"
 
 pluralizeListTitles = false
 
