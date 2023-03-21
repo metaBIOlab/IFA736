@@ -8,7 +8,7 @@ weight: 30
 
 ### Resumo
 
-O objetivo do curso é introduzir algumas das principais técnicas matemáticas utilizadas no estudo quantitativo de sistemas biológicos diversos. A ênfase será na introdução rigorosa e aplicação generalizável de cada técnica, mais do que no substrato biológico usado como exemplo. A experiência discente do curso irá procurar reproduzir a práxis da pesquisa científica: Os alunos irão colaborar entre si e interagir com dados reais; o uso de resultados de terceiros será encorajado se citados apropriadamente; o uso das técnicas estudadas será motivado por questões científica concretas; e os projetos a serem avaliados terão o formato de produção científica usual. Alguma experiência com linguagens de programação é altamente recomendada, mas o curso será agnóstico quanto a linguagens específicas.
+O objetivo do curso é introduzir algumas das principais técnicas matemáticas utilizadas no estudo quantitativo de sistemas biológicos diversos. A ênfase será na introdução rigorosa e aplicação generalizável de cada técnica, mais do que no substrato biológico usado como exemplo. A experiência discente do curso irá procurar reproduzir a práxis da pesquisa científica: os alunos irão colaborar entre si e interagir com dados reais; o uso de resultados de terceiros será encorajado se citados apropriadamente; o uso das técnicas estudadas será motivado por questões científica concretas; e os projetos a serem avaliados terão o formato de produção científica usual. Alguma experiência com linguagens de programação é altamente recomendada, mas o curso será agnóstico quanto a linguagens específicas.
 
 ### Ementa
 
@@ -61,10 +61,22 @@ O objetivo do curso é introduzir algumas das principais técnicas matemáticas 
 - Quadro virtual com o conteúdo das aulas e material suplementar (miro.com/)
 - Roteiros com exercícios e atividades para cada módulo
 
-1. Sethna, JP. (2021) Statistical Mechanics: Entropy, Order Parameters, and Complexity, 2nd edn, Oxford; https://doi.org/10.1093/oso/9780198865247.001.0001
+1. Sethna, JP. (2021) Statistical Mechanics: Entropy, Order Parameters, and Complexity, 2nd edn, Oxford; https://doi.org/10.1093/oso/9780198865247.001.0001  
    https://sethna.lassp.cornell.edu/statistical_mechanics_entropy_order_parameters_and_complexit)
 2. Barenblatt, G. (1996). Scaling, Self-similarity, and Intermediate Asymptotics: Dimensional Analysis and Intermediate Asymptotics, Cambridge; https://doi.org/10.1017/CBO9781107050242.017
-3. Menczer, Filippo & Fortunato, Santo & Davis, Clayton. (2020). A First Course in Network Science, Cambridge, https://doi.org/10.1017/9781108653947.
+3. Menczer, Filippo & Fortunato, Santo & Davis, Clayton. (2020). A First Course in Network Science, Cambridge; https://doi.org/10.1017/9781108653947.  
    https://cambridgeuniversitypress.github.io/FirstCourseNetworkScience/
-4. Haberman R (1998) Mathematical Models: Mechanical Vibrations, Population Dynamics, and Traffic Flow, Society for Industrial and Applied Mathematics, https://epubs.siam.org/doi/10.1137/1021076
+4. Haberman R (1998) Mathematical Models: Mechanical Vibrations, Population Dynamics, and Traffic Flow, Society for Industrial and Applied Mathematics; https://epubs.siam.org/doi/10.1137/1021076
 
+<!-- ### Registro das aulas
+
+As aulas de cada módulo estarão disponíveis em links do Youtube e em Slides nas páginas dos respectivos módulos. -->
+
+### Calendário previsto
+
+Sujeito a alterações.
+
+|**Data**    |**Tema/Módulo**                   |
+|------------|----------------------------------|
+| 21/03/2023 | Aula 1 - Introdutória - Módulo 0 |
+| 23/03/2023 | Aula 2 - Ferramentas científicas - Módulo 0 |
