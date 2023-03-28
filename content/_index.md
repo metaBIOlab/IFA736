@@ -62,7 +62,7 @@ O objetivo do curso é introduzir algumas das principais técnicas matemáticas 
 - Roteiros com exercícios e atividades para cada módulo
 
 1. Sethna, JP. (2021) Statistical Mechanics: Entropy, Order Parameters, and Complexity, 2nd edn, Oxford; https://doi.org/10.1093/oso/9780198865247.001.0001  
-   https://sethna.lassp.cornell.edu/statistical_mechanics_entropy_order_parameters_and_complexit)
+   https://sethna.lassp.cornell.edu/statistical_mechanics_entropy_order_parameters_and_complexit
 2. Barenblatt, G. (1996). Scaling, Self-similarity, and Intermediate Asymptotics: Dimensional Analysis and Intermediate Asymptotics, Cambridge; https://doi.org/10.1017/CBO9781107050242.017
 3. Menczer, Filippo & Fortunato, Santo & Davis, Clayton. (2020). A First Course in Network Science, Cambridge; https://doi.org/10.1017/9781108653947.  
    https://cambridgeuniversitypress.github.io/FirstCourseNetworkScience/
