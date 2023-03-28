@@ -79,4 +79,4 @@ Sujeito a alterações.
 |**Data**    |**Tema/Módulo**                   |
 |------------|----------------------------------|
 | 21/03/2023 | Aula 1 - Introdutória - Módulo 0 |
-| 23/03/2023 | Aula 2 - Ferramentas científicas - Módulo 0 |
+| 28/03/2023 | Aula 2 - Ferramentas científicas - Módulo 0 |
