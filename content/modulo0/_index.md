@@ -19,3 +19,6 @@ Em breve.
 
 * Criar uma conta nas ferramentas utilizadas para divulgação e publicação cientifica. Os trabalhos futuros serão apresentados utilizando ferramentas.  
 * Listar os conceitos fundamentais da Aula 0.
+
+## Aula 1
+
