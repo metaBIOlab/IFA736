@@ -74,7 +74,7 @@ As aulas de cada módulo estarão disponíveis em links do Youtube e em Slides n
 
 ### Calendário previsto
 
-|**Data**    |**Tema/Módulo**                   |
-|------------|----------------------------------|
-| 21/03/2023 | Aula 1 - Introdutória - Módulo 0 |
-| 28/03/2023 | Aula 2 - Introdução à modelos - Módulo 0 |
+|**Data**    |**Tema**                       |**Módulo**|
+|------------|-------------------------------|----------|
+| 21/03/2023 | Aula 1 - Introdutória         | Módulo 0 |
+| 28/03/2023 | Aula 2 - Introdução à modelos | Módulo 0 |
