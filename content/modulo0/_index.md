@@ -35,3 +35,7 @@ Book • Third Edition • 2013] https://www.researchgate.net/publication/267394
  
 - [Visual Analysis of Nonlinear Dynamical Systems: Chaos, Fractals, Self-Similarity and the Limits of Prediction](https://www.researchgate.net/publication/306226253_Visual_Analysis_of_Nonlinear_Dynamical_Systems_Chaos_Fractals_Self-Similarity_and_the_Limits_of_Prediction) e [Chaos Theory and the Logistic Map](https://geoffboeing.com/2015/03/chaos-theory-logistic-map/)
 
+- [Constante de Feigenbaum](https://www.youtube.com/watch?v=ETrYE4MdoLQ)
+
+- [Para os **MUITO** interessados no assunto, uma tese de doutorado](Feigenbaum_scaling_in_discrete_dynamical_systems_Keith_Briggs_PhD.pdf)
+
