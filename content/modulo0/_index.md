@@ -27,6 +27,9 @@ weight: 31
 
 ## Aula 3
 
-- Referência extra: [Devaney, R. L. (2021). An introduction to chaotic dynamical systems. CRC press.
+- Referência extra: [Differential Equations, Dynamical Systems, and an Introduction to Chaos
+Book • Third Edition • 2013] https://www.researchgate.net/publication/267394296_Differential_Equations_Dynamical_Systems_and_an_Introduction_to_Chaos
+
+PS: na internet tem esse disponível e alguns deles está na biblioteca do IF [Devaney, R. L. (2021). An introduction to chaotic dynamical systems. CRC press.
 ](https://www.researchgate.net/publication/355658928_An_Introduction_to_Chaotic_Dynamical_Systems)
 
