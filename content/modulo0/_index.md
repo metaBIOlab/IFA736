@@ -22,5 +22,11 @@ weight: 31
 ## Aula 1
 
 - Referência extra: [ANDERSON, P. W. More Is Different. Science, v. 177, n. 4047, p. 393–396, 1972.](csp_177_.bib)
----
+
+## Aula 2
+
+## Aula 3
+
+- Referência extra: [Devaney, R. L. (2021). An introduction to chaotic dynamical systems. CRC press.
+](https://www.researchgate.net/publication/355658928_An_Introduction_to_Chaotic_Dynamical_Systems)
 
