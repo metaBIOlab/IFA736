@@ -78,3 +78,6 @@ As aulas de cada módulo estarão disponíveis em links do Youtube e em Slides n
 |------------|-------------------------------|----------|
 | 21/03/2023 | Aula 1 - Introdutória         | Módulo 0 |
 | 28/03/2023 | Aula 2 - Introdução à modelos | Módulo 0 |
+| 30/03/2023 | Aula 3 - | Módulo 0 |
+| 04/04/2023 | Aula 4 - Modelo logístico contínuo e gráfico de bifurcação | Módulo 0 |
+| 06/04/2023 | Aula 5 - Modelo logístico contínuo e gráfico de bifurcação | Módulo 0 |

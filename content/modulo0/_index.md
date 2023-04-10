@@ -12,20 +12,22 @@ weight: 31
 <!-- Slides:, example https://www.youtube.com/watch?v=w7Ft2ymGmfc
 {{< youtube w7Ft2ymGmfc >}}-->
 
-## Aula 0
+## Aula 1
 
 ### Para casa
 
 * Criar uma conta nas ferramentas utilizadas para divulgação e publicação cientifica. Os trabalhos futuros serão apresentados utilizando ferramentas.
 * Listar os conceitos fundamentais da Aula 0.
 
-## Aula 1
-
-- Referência extra: [ANDERSON, P. W. More Is Different. Science, v. 177, n. 4047, p. 393–396, 1972.](csp_177_.bib)
+- [Slides](IFA736_Aula1_Slides.pdf)
 
 ## Aula 2
 
+- Referência extra: [ANDERSON, P. W. More Is Different. Science, v. 177, n. 4047, p. 393–396, 1972.](csp_177_.bib)
+
 ## Aula 3
+
+## Aula 4
 
 - Referência extra: [Differential Equations, Dynamical Systems, and an Introduction to Chaos
 Book • Third Edition • 2013] https://www.researchgate.net/publication/267394296_Differential_Equations_Dynamical_Systems_and_an_Introduction_to_Chaos
@@ -39,3 +41,7 @@ Book • Third Edition • 2013] https://www.researchgate.net/publication/267394
 
 - [Para os **MUITO** interessados no assunto, uma tese de doutorado](Feigenbaum_scaling_in_discrete_dynamical_systems_Keith_Briggs_PhD.pdf)
 
+## Aula 5 - Modelo logístico contínuo e gráfico de bifurcação
+
+ - [Notas de aula](ModeloLogisticoContínuo.pdf)
+ - [Excel com experimento digital de Dinâmica Populacional](Dinamicapopulacao_mapalogistico.xlsx)
