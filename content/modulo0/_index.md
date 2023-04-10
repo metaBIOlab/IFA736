@@ -14,6 +14,8 @@ weight: 31
 
 ## Aula 1
 
+- [Glossário das ferramentas a serem utilizadas](content/modulo0/glossario.md)
+
 ### Para casa
 
 * Criar uma conta nas ferramentas utilizadas para divulgação e publicação cientifica. Os trabalhos futuros serão apresentados utilizando ferramentas.
@@ -45,3 +47,7 @@ Book • Third Edition • 2013] https://www.researchgate.net/publication/267394
 
  - [Notas de aula](ModeloLogisticoContínuo.pdf)
  - [Excel com experimento digital de Dinâmica Populacional](Dinamicapopulacao_mapalogistico.xlsx)
+
+ ### Para casa
+
+<!-- Recriar a tabela  -->
