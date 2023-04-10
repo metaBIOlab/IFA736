@@ -1,6 +1,6 @@
 ---
 title: "Glossário de ferramentas acadêmicas"
-
+aliases: [/modulo0/glossario/]
 ---
 
 

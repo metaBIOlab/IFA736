@@ -14,7 +14,7 @@ weight: 31
 
 ## Aula 1
 
-- [Glossário das ferramentas a serem utilizadas](content/modulo0/glossario.md)
+- [Glossário das ferramentas a serem utilizadas](/modulo0/glossario/)
 
 ### Para casa
 
