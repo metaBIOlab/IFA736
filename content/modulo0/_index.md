@@ -2,7 +2,6 @@
 title: Módulo 0
 menu: main
 weight: 31
-aliases: [/modulo0/]
 ---
 
 <!-- # Aula 1 -->
