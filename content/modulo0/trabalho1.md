@@ -1,5 +1,6 @@
 ---
 title: "Orientações para o trabalho 1 individual"
+menu: modulo0
 aliases: [/modulo0/trabalho1/]
 ---
 

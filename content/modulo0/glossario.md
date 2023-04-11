@@ -1,5 +1,6 @@
 ---
 title: "Glossário de ferramentas acadêmicas"
+menu: modulo0
 aliases: [/modulo0/glossario/]
 ---
 
