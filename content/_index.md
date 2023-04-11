@@ -12,7 +12,7 @@ O objetivo do curso é introduzir algumas das principais técnicas matemáticas 
 
 ### Ementa
 
-* Módulo 0 – Dinâmica populacional
+* [Módulo 0 – Dinâmica populacional](/modulo0/)
   
   * Introdução ao raciocínio físico-matemático: Intuição física e intuição matemática, e o choque de culturas científicas
   * Algumas ferramentas: [Overleaf](https://pt.overleaf.com), [Bibtex](https://www.google.com/search?q=bibtex&oq=bibtex&aqs=chrome..69i57j0i67j0i512l8.893j0j4&sourceid=chrome&ie=UTF-8), [Zotero](https://www.zotero.org/), [GitHub](https://github.com/) e linguagens de programação
@@ -51,7 +51,7 @@ O objetivo do curso é introduzir algumas das principais técnicas matemáticas 
 
 **Projeto ao final de cada módulo.**
 
-1. Projeto módulo 0 – Individual – 20%
+1. [Projeto módulo 0 – Individual – 20%](/modulo0/trabalho1/)
 2. 2 x Projeto livre escolha entre os módulos 1, 2, 3 e 4 – em dupla – 2x40%
    Cada projetos irá incluir código computacional e textos em formato de artigo científico apresentando e discutindo análise de dados. Bases de dados reais serão disponibilizadas, mas os alunos são encorajados a usar dados próprios ou que lhes sejam de interesse.
    Todos os resultados serão apresentados em ferramentas de colaboração científica reais: Projetos compartilhados no [Overleaf](https://pt.overleaf.com), repositórios de código em [GitHub](https://github.com/), notebooks em [Jupyter](https://jupyter.org/) e [Mathematica](https://www.wolfram.com/mathematica/).
@@ -76,8 +76,8 @@ As aulas de cada módulo estarão disponíveis em links do Youtube e em Slides n
 
 |**Data**    |**Tema**                       |**Módulo**|
 |------------|-------------------------------|----------|
-| 21/03/2023 | Aula 1 - Introdutória         | Módulo 0 |
-| 28/03/2023 | Aula 2 - Introdução à modelos | Módulo 0 |
-| 30/03/2023 | Aula 3 - | Módulo 0 |
-| 04/04/2023 | Aula 4 - Modelo logístico contínuo e gráfico de bifurcação | Módulo 0 |
-| 06/04/2023 | Aula 5 - Modelo logístico contínuo e gráfico de bifurcação | Módulo 0 |
+| 21/03/2023 | Aula 1 - Introdutória         | [Módulo 0](/modulo0/) |
+| 28/03/2023 | Aula 2 - Introdução à modelos | [Módulo 0](/modulo0/) |
+| 30/03/2023 | Aula 3 - | [Módulo 0](/modulo0/) |
+| 04/04/2023 | Aula 4 - Modelo logístico contínuo e gráfico de bifurcação | [Módulo 0](/modulo0/) |
+| 06/04/2023 | Aula 5 - Modelo logístico contínuo e gráfico de bifurcação | [Módulo 0](/modulo0/) |
