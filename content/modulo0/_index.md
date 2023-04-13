@@ -49,6 +49,10 @@ Book • Third Edition • 2013] https://www.researchgate.net/publication/267394
  - [Notas de aula](ModeloLogisticoContínuo.pdf)
  - [Excel com experimento digital de Dinâmica Populacional](Dinamicapopulacao_mapalogistico.xlsx)
 
+### Para casa
+
+- [Trabalho 1](/modulo0/trabalho1/)
+
 ## Aula 6
 
 ### Preparacao 
@@ -58,8 +62,18 @@ Book • Third Edition • 2013] https://www.researchgate.net/publication/267394
 - This equation will change how you see the world (the logistic map)
 {{< youtube id="bOpxQ7hGpmM" >}}
 
- ### Para casa
+### Slides
 
- - [Trabalho 1](/modulo0/trabalho1/)
+- [Slides](IFA736_zumbis_2023.pdf
+
+### Para casa
+
+- Incluir no modelo zumbi, humano e caçador um termo que representa que todo humano morto vira zumbi (the walking dead model).
+
+### Referências extras
+
+- [Dynamics: the geometry of behavior, Ralph H. Abraham - The Visual mathematics library part one](https://www.ifsc.usp.br/~reynaldo/curso_caos/Dynamics.pdf)
+
+- [Dynamics: the geometry of behavior, Ralph H. Abraham - The Visual mathematics library part two](The_Visual_Mathematics_Library.bibtex)
 
 <!-- Recriar a tabela  -->

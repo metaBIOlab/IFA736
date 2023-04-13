@@ -81,3 +81,4 @@ As aulas de cada módulo estarão disponíveis em links do Youtube e em Slides n
 | 30/03/2023 | Aula 3 - | [Módulo 0](/modulo0/) |
 | 04/04/2023 | Aula 4 - Modelo logístico contínuo e gráfico de bifurcação | [Módulo 0](/modulo0/) |
 | 06/04/2023 | Aula 5 - Modelo logístico contínuo e gráfico de bifurcação | [Módulo 0](/modulo0/) |
+| 13/04/2023 | Aula 5 - Modelo de zumbis | [Módulo 0](/modulo0/) |
