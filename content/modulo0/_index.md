@@ -58,6 +58,9 @@ weight: 31
 - This equation will change how you see the world (the logistic map)
   {{< youtube id="bOpxQ7hGpmM" >}}
 
+### Slides
+
+[20230424_104446_IFA736_zumbis_2023.pdf](assets/20230424_104446_IFA736_zumbis_2023.pdf)
 
 ### Para casa
 
