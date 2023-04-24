@@ -76,4 +76,6 @@ Book • Third Edition • 2013] https://www.researchgate.net/publication/267394
 
 - [Dynamics: the geometry of behavior, Ralph H. Abraham - The Visual mathematics library part two](The_Visual_Mathematics_Library.bibtex)
 
+
+hahhaha
 <!-- Recriar a tabela  -->
