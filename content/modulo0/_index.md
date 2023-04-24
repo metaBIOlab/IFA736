@@ -60,7 +60,8 @@ weight: 31
 
 ### Slides
 
-[20230424_104446_IFA736_zumbis_2023.pdf](assets/20230424_104446_IFA736_zumbis_2023.pdf)
+Em breve.
+<!-- [20230424_104446_IFA736_zumbis_2023.pdf](assets/20230424_104446_IFA736_zumbis_2023.pdf) -->
 
 ### Para casa
 
