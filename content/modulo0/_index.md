@@ -64,7 +64,7 @@ Book • Third Edition • 2013] https://www.researchgate.net/publication/267394
 
 ### Slides
 
-- [Slides](IFA736_zumbis_2023.pdf
+- [Slides](IFA736_zumbis_2023.pdf)
 
 ### Para casa
 
