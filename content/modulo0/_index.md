@@ -60,7 +60,7 @@ weight: 31
 
 ### Slides
 
-[Zumbis](https://github.com/metaBIOlab/IFA736/blob/main/content/modulo0/assets/20230424_104446_IFA736_zumbis_2023.pdf)
+<!-- [20230424_104446_IFA736_zumbis_2023.pdf](assets/20230424_104446_IFA736_zumbis_2023.pdf) -->
 
 ### Para casa
 
