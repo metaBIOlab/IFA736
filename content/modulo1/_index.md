@@ -6,11 +6,11 @@ weight: 32
 
 ## Aula
 
-- [Slides](IFA_736_Leis_de_escala_2023.pdf)
+- [Slides] <!-- (IFA_736_Leis_de_escala_2023.pdf) --> (arquivo no github)
 
 ## Projeto
 
-- [Instruções](Metodos_Matemáticos_em_biofísica_Projeto_dimensão_fractal.pdf)
+- [Instruções]<!-- (Metodos_Matemáticos_em_biofísica_Projeto_dimensão_fractal.pdf) --> (arquivo no github)
 
 ## Referências
 
