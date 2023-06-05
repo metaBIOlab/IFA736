@@ -38,7 +38,7 @@ weight: 31
 - [Visual Analysis of Nonlinear Dynamical Systems: Chaos, Fractals, Self-Similarity and the Limits of Prediction](https://www.researchgate.net/publication/306226253_Visual_Analysis_of_Nonlinear_Dynamical_Systems_Chaos_Fractals_Self-Similarity_and_the_Limits_of_Prediction) e [Chaos Theory and the Logistic Map](https://geoffboeing.com/2015/03/chaos-theory-logistic-map/)
 - The Feigenbaum Constant (4.669) - Numberphile <!-- - [Constante de Feigenbaum](https://www.youtube.com/watch?v=ETrYE4MdoLQ) -->
   {{< youtube id="ETrYE4MdoLQ" >}}
-- [Para os **MUITO** interessados no assunto, uma tese de doutorado](Feigenbaum_scaling_in_discrete_dynamical_systems_Keith_Briggs_PhD.pdf)
+- [Para os **MUITO** interessados no assunto, uma tese de doutorado]<!-- (Feigenbaum_scaling_in_discrete_dynamical_systems_Keith_Briggs_PhD.pdf) --> (arquivo no github)
 
 ## Aula 5 - Modelo logístico contínuo e gráfico de bifurcação
 
