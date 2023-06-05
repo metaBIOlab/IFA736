@@ -1,7 +1,10 @@
 ---
-title: Módulo 3
+title: Módulo 3 - Redes
 menu: main
 weight: 34
 ---
 
-Em breve
+## Referências
+
+- [Comple Networks](ComplexNetworks_SmallWorld_Random_ScaleFree_BARABASI2002.pdf)
+- [Theory of Complex Networks](THEORY_OF_COMPLEX_NETWORKS_BAARDEWIJK2010.pdf)

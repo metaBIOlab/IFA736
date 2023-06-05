@@ -67,7 +67,7 @@ O objetivo do curso é introduzir algumas das principais técnicas matemáticas 
 3. Menczer, Filippo & Fortunato, Santo & Davis, Clayton. (2020). A First Course in Network Science, Cambridge; https://doi.org/10.1017/9781108653947.  
    https://cambridgeuniversitypress.github.io/FirstCourseNetworkScience/
 4. Haberman R (1998) Mathematical Models: Mechanical Vibrations, Population Dynamics, and Traffic Flow, Society for Industrial and Applied Mathematics; https://epubs.siam.org/doi/10.1137/1021076
-
+5. [Zotero bibliography](https://www.zotero.org/groups/5063376/metabio_lib/collections/QE3PLDI5)
 <!-- ### Registro das aulas
 
 As aulas de cada módulo estarão disponíveis em links do Youtube e em Slides nas páginas dos respectivos módulos. -->
