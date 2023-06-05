@@ -4,14 +4,6 @@ menu: main
 weight: 31
 ---
 
-<!-- # Aula 1 -->
-
-<!-- Link Youtube:, example https://www.youtube.com/watch?v=w7Ft2ymGmfc
-{{< youtube w7Ft2ymGmfc >}}-->
-
-<!-- Slides:, example https://www.youtube.com/watch?v=w7Ft2ymGmfc
-{{< youtube w7Ft2ymGmfc >}}-->
-
 ## Aula 1
 
 - [Glossário das ferramentas a serem utilizadas](/modulo0/glossario/)
