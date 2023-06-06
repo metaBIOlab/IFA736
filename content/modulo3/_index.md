@@ -15,7 +15,7 @@ weight: 34
 
  ## Referências extras
 
-- Artigo introdutório: [The physics of networks - Mark Newman](Newman_complex_networks_phys_today_2008.pdf)
+- Artigo introdutório: The physics of networks - Mark Newman (arquivo no github)
 - Barabási Albert Model short https://www.youtube.com/shorts/5YdkhWB_uYQ
 - Barabási Albert Model
   {{< youtube id="qXXzB8sQuiE" >}}
